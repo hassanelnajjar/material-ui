@@ -32,6 +32,7 @@ const users = [
   'nabil',
 ];
 
+// makeStyle
 const useStyle = makeStyles({
   root: {
     background: 'linear-gradient(45deg,#cee484,#26dc9f)',
