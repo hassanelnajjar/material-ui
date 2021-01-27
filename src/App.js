@@ -8,6 +8,7 @@ import {
 	Redirect,
 } from 'react-router-dom';
 
+// App Component
 export default function App() {
 	return (
 		<ContextProvide>
